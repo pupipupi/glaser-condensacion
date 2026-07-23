@@ -43,7 +43,8 @@ vapor que le está llegando — y condensa ahí, dentro del muro.
 
 ### Qué NO hace
 
-Es un cálculo simplificado en condiciones fijas de invierno (un solo momento, no todo el
+Es un cálculo simplificado en condiciones fijas del lugar (un solo momento, no todo el
 año), y no considera que materiales como el barro absorben y liberan humedad de forma dinámica
-día a día. Sirve como primera evaluación de riesgo, no como verificación definitiva para un
+día a día y tampoco considera su orientación ni exposición solar.
+Sirve como primera evaluación de riesgo, no como verificación definitiva para un
 proyecto que ya se está construyendo.
