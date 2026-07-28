@@ -1,7 +1,7 @@
 # Condensación intersticial — Método Glaser
 
 Calculadora interactiva de condensación intersticial en muros multicapa (método Glaser, ISO 13788).  
-Creado para el grupo de WhatsApp "Amigos del Gremio de Bioconstrucción Chile"  
+Creado para uso en el grupo de WhatsApp "Amigos del Gremio de Bioconstrucción Chile"  
 
 https://pupipupi.github.io/glaser-condensacion/
 
